@@ -1,4 +1,4 @@
 # git-demo
-git demo for iet and ieee svecw workshop
+Machine Learning Projects
 <br>
-author : yugasri
+author : Yugasri Bandi
